@@ -1,3 +1,5 @@
 Chapter One
 
 Start story.
+
+Before commit 3
